@@ -12,31 +12,33 @@
 ```
 .
 ├── IT22081698_ios_practical2/
-│   ├── Exercise01.swift         # Arrays
-│   ├── Exercise02.swift         # Sets
-│   ├── Exercise03.swift         # Dictionaries
-│   ├── Exercise04.swift         # if / else if / else
-│   ├── Exercise05.swift         # switch & Ranges
-│   ├── Exercise06.swift         # Loops & Control Flow
-│   ├── FinalChallenge.swift     # Student Performance Manager
-│   ├── README.md                # Documentation & Exercise Walkthrough
-│   └── screenshots/             # Output and execution verification screenshots
-│       ├── 01-Collections.png
-│       ├── 02-Control-Flow.png
-│       └── 03-Final-Challenge.png
+│   └── SE4041-Practical-02/
+│       ├── Exercise01.swift         # Arrays
+│       ├── Exercise02.swift         # Sets
+│       ├── Exercise03.swift         # Dictionaries
+│       ├── Exercise04.swift         # if / else if / else
+│       ├── Exercise05.swift         # switch & Ranges
+│       ├── Exercise06.swift         # Loops & Control Flow
+│       ├── FinalChallenge.swift     # Student Performance Manager
+│       ├── README.md                # Documentation & Exercise Walkthrough
+│       └── screenshots/             # Output and execution verification screenshots
+│           ├── 01-Collections.png
+│           ├── 02-Control-Flow.png
+│           └── 03-Final-Challenge.png
 │
 ├── IT22081698_ios_practical3/
-│   ├── Exercise01.swift         # Functions
-│   ├── Exercise02.swift         # guard statement
-│   ├── Exercise03.swift         # Tuples
-│   ├── Exercise04.swift         # Closures (map, filter, reduce)
-│   ├── Exercise05.swift         # Enumerations
-│   ├── Exercise06.swift         # Structs vs Classes
-│   ├── FinalChallenge.swift     # Student Management System
-│   ├── README.md                # Documentation & Exercise Walkthrough
-│   └── screenshots/             # Output and execution verification screenshots
-│       ├── 01-exercises.png
-│       └── 02-final-challenge.png
+│   └── SE4041-Practical-03/
+│       ├── Exercise01.swift         # Functions
+│       ├── Exercise02.swift         # guard statement
+│       ├── Exercise03.swift         # Tuples
+│       ├── Exercise04.swift         # Closures (map, filter, reduce)
+│       ├── Exercise05.swift         # Enumerations
+│       ├── Exercise06.swift         # Structs vs Classes
+│       ├── FinalChallenge.swift     # Student Management System
+│       ├── README.md                # Documentation & Exercise Walkthrough
+│       └── screenshots/             # Output and execution verification screenshots
+│           ├── 01-exercises.png
+│           └── 02-final-challenge.png
 │
 ├── IT22081698_ios_practical4/
 │   ├── MarksApp/
@@ -72,12 +74,12 @@
 
 ## Practicals Overview
 
-### Practical 02: Collections & Control Flow (`IT22081698_ios_practical2`)
+### Practical 02: Collections & Control Flow (`IT22081698_ios_practical2/SE4041-Practical-02`)
 - **Type:** Swift Console Programs / Xcode Playground
 - **Topics Covered:** Arrays, Sets, Dictionaries, Optionals, Conditionals (`if / else`), Pattern Matching (`switch`, ranges), Loops (`for-in`, `while`, `repeat-while`, `break`, `continue`).
 - **Final Challenge:** Student Performance Manager calculating student marks, letter grades (A to F), pass/fail filter, class average (62.6), min/max marks, and student search.
 
-### Practical 03: Functions, Enums, Structs & Classes (`IT22081698_ios_practical3`)
+### Practical 03: Functions, Enums, Structs & Classes (`IT22081698_ios_practical3/SE4041-Practical-03`)
 - **Type:** Swift Console Programs / Xcode Playground
 - **Topics Covered:** Functions, Parameters, Return types, Argument labels, Default values, `guard` validation, Tuples, Closures (`map`, `filter`, `reduce`), Enumerations with raw values, Structs (stored & computed properties, mutating methods), Classes, Value vs Reference semantics.
 - **Final Challenge:** Student Management System modeling students, computing letter grades, filtering passed students, mapping student names, and aggregating class metrics.
