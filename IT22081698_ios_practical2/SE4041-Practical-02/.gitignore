@@ -1,8 +1,0 @@
-# Practical 02 Git Ignore Rules
-.build/
-*.exe
-*.pdb
-*.obj
-*.o
-.DS_Store
-Thumbs.db
