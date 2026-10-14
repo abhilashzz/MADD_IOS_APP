@@ -1,0 +1,23 @@
+========================================
+  EXERCISE 02: GUARD IN SWIFT
+========================================
+
+--- Step 1: Basic guard for Optional Unwrapping ---
+Registered Kamal
+No name given
+
+--- Step 2: guard with Multiple Validations ---
+Testing nil:
+No name given
+Testing empty string "":
+Name cannot be empty
+Testing valid string "Kamal":
+Registered Kamal
+
+--- Activity 3: checkStudent with guard let ---
+Test 1 - Missing Name:
+Student name unavailable
+Test 2 - Missing Mark:
+Student mark unavailable
+Test 3 - Both Valid:
+Kamal received 75 marks

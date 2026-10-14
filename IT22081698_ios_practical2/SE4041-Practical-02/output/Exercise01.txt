@@ -1,0 +1,40 @@
+========================================
+  EXERCISE 01: ARRAYS IN SWIFT
+========================================
+
+--- Step 1: Create an Array ---
+Marks array: [72, 65, 48, 90, 55]
+
+--- Step 2: Access Array Elements ---
+First element (index 0): 72
+Third element (index 2): 48
+Fifth element (index 4): 55
+
+--- Step 3: Useful Array Properties ---
+Total number of items (count): 5
+Is array empty? (isEmpty): false
+First item (.first): Optional(72)
+Last item (.last): Optional(55)
+
+--- Step 4: Modify an Array ---
+After updating index 2 to 52: [72, 65, 52, 90, 55]
+After append(88) and insert(60, at: 1): [72, 60, 65, 52, 90, 55, 88]
+After removeLast() and remove(at: 1): [72, 65, 52, 90, 55]
+
+--- Step 5: Useful Array Methods ---
+Original Marks: [72, 65, 48, 90, 55]
+Highest mark (max): 90
+Lowest mark (min): 48
+Contains 90? (contains): true
+Ascending sort: [48, 55, 65, 72, 90]
+Descending sort: [90, 72, 65, 55, 48]
+Total marks: 330
+Average mark: 66.0
+
+--- Activity 1: Modules Array ---
+1. All modules: ["SE4041", "IT4010", "IT4020", "IE4010", "SE4020"]
+2. First module: SE4041
+3. Last module: SE4020
+4. Added new module 'SE4030'
+5. Total modules count: 6
+6. Does 'SE4041' exist in modules? true

@@ -1,0 +1,30 @@
+========================================
+  EXERCISE 04: IF / ELSE IF / ELSE
+========================================
+
+--- Guided Example: Student Mark Evaluation ---
+Mark: 68
+Result: Pass
+(Expected output: Pass)
+
+--- Activity 4: Attendance Evaluation ---
+Testing Attendance = 78%:
+  -> Acceptable attendance
+
+--- Activity 4: Testing Boundary & Sample Values ---
+Testing Attendance = 95%:
+  -> Excellent attendance
+Testing Attendance = 90%:
+  -> Excellent attendance
+Testing Attendance = 89%:
+  -> Good attendance
+Testing Attendance = 80%:
+  -> Good attendance
+Testing Attendance = 79%:
+  -> Acceptable attendance
+Testing Attendance = 70%:
+  -> Acceptable attendance
+Testing Attendance = 69%:
+  -> Low attendance
+Testing Attendance = 55%:
+  -> Low attendance

@@ -1,0 +1,29 @@
+========================================
+  EXERCISE 05: SWITCH AND RANGES
+========================================
+
+--- Step 1: String Grade Switch ---
+Grade input: B
+Result: Good
+(Expected output: Good)
+
+--- Step 2: Using Ranges in a Switch ---
+Mark input: 68
+Result: Pass
+(Expected output: Pass)
+
+--- Activity 5: Temperature Description ---
+Temperature: 27°C
+  -> Warm
+
+--- Additional Temperature Tests ---
+Temperature: -5°C
+  -> Freezing
+Temperature: 10°C
+  -> Cold
+Temperature: 20°C
+  -> Moderate
+Temperature: 27°C
+  -> Warm
+Temperature: 40°C
+  -> Hot

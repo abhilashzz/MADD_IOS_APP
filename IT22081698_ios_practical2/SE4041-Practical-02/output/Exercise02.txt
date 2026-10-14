@@ -1,0 +1,34 @@
+========================================
+  EXERCISE 02: SETS IN SWIFT
+========================================
+
+--- Step 1: Create a Set ---
+Initial towns set: ["Malabe", "Kandy", "Galle"]
+(Note: Order is not guaranteed in sets because they are hash-based.)
+
+--- Step 2: Insert Values ---
+Towns after inserting 'Jaffna' and duplicate 'Kandy': ["Malabe", "Kandy", "Galle", "Jaffna"]
+Towns count: 4
+
+--- Step 3: Check Membership ---
+Does towns contain 'Kandy'? true
+Does towns contain 'Colombo'? false
+
+--- Step 4: Remove an Item ---
+Towns after removing 'Galle': ["Malabe", "Kandy", "Jaffna"]
+
+--- Step 5: Set Operations ---
+Swift Class: ["Amal", "Nimali", "Ruwan"]
+Kotlin Class: ["Nimali", "Ruwan", "Sanduni"]
+Union (all unique students): ["Amal", "Nimali", "Ruwan", "Sanduni"]
+Intersection (students in both classes): ["Nimali", "Ruwan"]
+Subtracting (in Swift class only): ["Amal"]
+Symmetric Difference (in only one class): ["Amal", "Sanduni"]
+
+--- Activity 2: Student Enrolment Sets ---
+Mobile Development Students: ["Amal", "Kasun", "Nimali", "Ruwan"]
+Game Technology Students: ["Dilshan", "Nimali", "Ruwan", "Sanduni"]
+1. All students: ["Amal", "Dilshan", "Kasun", "Nimali", "Ruwan", "Sanduni"]
+2. Students taking both modules: ["Nimali", "Ruwan"]
+3. Students taking only Mobile Development: ["Amal", "Kasun"]
+4. Students taking only one module: ["Amal", "Dilshan", "Kasun", "Sanduni"]

@@ -1,0 +1,33 @@
+==================================
+       STUDENT PERFORMANCE
+==================================
+Amal - 72 - B+
+Kasun - 38 - F
+Nimali - 45 - C
+Ruwan - 68 - B
+Sanduni - 90 - A
+----------------------------------
+Passed Students:
+Amal
+Ruwan
+Sanduni
+----------------------------------
+Grades Awarded:
+A
+B
+B+
+C
+F
+----------------------------------
+Class Average: 62.6
+Highest Mark: 90
+Lowest Mark: 38
+----------------------------------
+Pass / Fail Summary:
+Passed: 3
+Failed: 2
+----------------------------------
+Student Search Verification:
+Amal's mark is 72
+Student not found
+==================================

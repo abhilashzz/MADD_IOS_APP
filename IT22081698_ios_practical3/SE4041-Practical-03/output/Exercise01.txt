@@ -1,0 +1,32 @@
+========================================
+  EXERCISE 01: FUNCTIONS IN SWIFT
+========================================
+
+--- Step 1: Simple Function ---
+Welcome to SE4041
+
+--- Step 2: Function with Parameter ---
+Welcome Amal
+Welcome Nimali
+Welcome Ruwan
+
+--- Step 3: Returning a Value ---
+Grade for 68: Pass
+
+--- Step 4: Argument Labels ---
+Travelling from Malabe to Kandy
+
+--- Step 5: Removing Argument Labels ---
+Double of 10: 20
+
+--- Step 6: Default Parameter Values ---
+Default passMark (50) with 68: Pass
+Custom passMark (75) with 68: Fail
+
+--- Activity 1: calculateAverage ---
+Average of 75, 82, 68: 75.0
+
+--- Activity 2: finalResult ---
+finalResult(mark: 45) -> Fail
+finalResult(mark: 75) -> Pass
+finalResult(mark: 75, passMark: 80) -> Fail
